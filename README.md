@@ -1,3 +1,5 @@
+<p align="center"><img src="Illustrations/imrs.png"></p>
+
 # International Movie Recommendation System - IMRS
 
 ## A Simple project on Movie recommendation system.
