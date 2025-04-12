@@ -69,3 +69,5 @@
 - Normalized schema (up to 3NF) ensuring data integrity
 - Relationships implemented using foreign keys and associative tables
 - SQL scripts included for schema creation and data population
+
+![ERD](https://github.com/user-attachments/assets/52dcfd3f-3e8a-44ad-b4c5-b911de8f5722)
